@@ -1,2 +1,2 @@
 # learn_git_again
-Check point 
+Check point terminer 
